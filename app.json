@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/Mr-dark-prince/EvaMaria",
+    "repository": "https://github.com/dangerbots/bestkid",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
